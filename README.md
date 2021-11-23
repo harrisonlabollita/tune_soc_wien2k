@@ -1,4 +1,4 @@
-Tuneable SOC in WIEN2k
+Tunable SOC in WIEN2k
 ======================
 
 **A patch for tunable spin-orbit coupling in WIEN2k!**
